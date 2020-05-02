@@ -2,3 +2,5 @@ Transparency=high
 CopyAsRTF=no
 Window=max
 Scrollbar=none
+Font=Lucida Console
+FontHeight=10
