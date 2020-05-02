@@ -1,4 +1,4 @@
 alias sudow='cygstart --action=runas'
-alias cyg-install='/cygwinsetup.exe -qdNP'
-alias cyg-remove='/cygwinsetup.exe -qdNx'
-alias cyg-update='/cygwinsetup.exe -qdng'
+alias cyg-install='$CYGSETUPBIN -qBdNP'
+alias cyg-remove='$CYGSETUPBIN -qBdNx'
+alias cyg-update='$CYGSETUPBIN -qBdng'
